@@ -7,6 +7,6 @@
 # print(data)
 # print(sub_data)
 
-# sub_data=[1,2,3,4,5]
-# sub_data.pop()
-# print(sub_data)
+# sub-data=[1,2,3,4,5]
+# sub-data.pop()
+# print(sub-data)
